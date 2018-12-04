@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Filkom Classroom</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nav_home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Hello this is Home fragment</string>
+    <string name="class_fragment">Hello this is Class fragment</string>
+    <string name="setting_fragment">Hello this is Setting fragment</string>
 </resources>
