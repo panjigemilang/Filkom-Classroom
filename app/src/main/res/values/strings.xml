@@ -10,4 +10,6 @@
     <string name="home_fragment">Hello this is Home fragment</string>
     <string name="class_fragment">Hello this is Class fragment</string>
     <string name="setting_fragment">Hello this is Setting fragment</string>
+
+    <string name="username">Input username</string>
 </resources>
